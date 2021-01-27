@@ -4,8 +4,8 @@ This is going to be my very first project. I am going to learn to code a simple 
 
 ## Sources
 
-* [Green Fox Academy] (https://www.greenfoxacademy.cz/)
-* [Coder Coder] (https://www.youtube.com/c/TheCoderCoder/videos)
+* [Green Fox Academy](https://www.greenfoxacademy.cz/)
+* [Coder Coder](https://www.youtube.com/c/TheCoderCoder/videos)
 
 ### Object
 
