@@ -10,3 +10,5 @@ This is going to be my very first project. I am going to learn to code a simple 
 ### Object
 
 A simple website about myself. Kind of casual CV.
+
+28.1. learning flex
