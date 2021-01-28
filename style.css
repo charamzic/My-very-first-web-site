@@ -1,0 +1,34 @@
+* {
+  
+}
+
+h1 { 
+  font-size: 4rem; 
+}
+
+h2 { 
+  font-size: 3rem; 
+}
+
+h1, h2, h3 {
+  margin-top: 0px;
+}
+
+.flex-container {
+
+    display: flex;
+    background-image: linear-gradient(to bottom right, #57ecdf, #ff0443);
+    padding: 50px;
+  }
+
+.main-content {
+  flex: 1;
+}
+
+.sidebar {
+  flex: 2;
+}
+
+.profile-pic {
+  border-radius: 50px;
+}
