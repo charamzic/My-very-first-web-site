@@ -12,3 +12,4 @@ This is going to be my very first project. I am going to learn to code a simple 
 A simple website about myself. Kind of casual CV.
 
 28.1. learning flex
+29.1. playing with grid, adding sass plug in
